@@ -1,3 +1,3 @@
 # frontend
-Push code html ở tại thư mục root
-Code js css thì vô thư mục ở static
+`Up code html ở thư mục root luôn của project
+`Code js, css, fonts thì sẽ ở thư mục static
