@@ -1,3 +1,2 @@
 # frontend
-```Up code html ở thư mục root luôn của project```
-```Code js, css, fonts thì sẽ ở thư mục static```
+Code html sẽ ở thư mục root của repo, files css, js, fonts sẽ lưu vào các thư mục trong thư mục static. Tên file html và css đặt tên giống nhau.
