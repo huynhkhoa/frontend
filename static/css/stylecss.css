@@ -120,26 +120,19 @@ html,body{
 	text-align: center;
 	padding: 5em;
 }
-/*-----------------3 cái nút gì đó ----------------*/
-
-.intro{
-	text-align: center;
+/*-----------------Breadcrumb----------------*/
+.breadcrumb {
+    justify-content: center;
+    margin: 0;
+    background-color: #f8f9fa!important;
 }
-
-.index{
-	text-align: center;
-}
-.index1{
-	display: inline-table;
-	text-align: center;
-}
-.index a{
-	color: red;
-	text-decoration: none;
-}
-.index a:hover{
-	color: blue;
-}
+.mau {
+    color: #D81a24;
+ }
+ .mau:hover{
+     text-decoration: none;
+     color: #000;
+ }
 /*------------------------------CONTENT ---------------------*/
 .content{
 	margin: 0 auto;
@@ -266,7 +259,7 @@ html,body{
    width: 100%;
    color: white;
    text-align: center;
-   height: 250px;
+   height: auto;
    padding: 30px;
 }
 #contact{
